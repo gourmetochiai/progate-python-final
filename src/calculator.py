@@ -35,4 +35,6 @@ def main():
             print("Invalid operator")
 
 if __name__ == "__main__":
-        main()
+        #main()
+
+        print(subtract(10, 4))
